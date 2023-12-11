@@ -40,6 +40,12 @@ This scatterplot shows the level of income by age, which shows that older people
 
 This bar chart shows that produce and eggs and dairy are the most popular types of items users order at Instacart. These are considered essential foods, so Instacart should focus on promoting non-essential items to maximize revenue.
 
+
+![Revenue by family status in each US Region](Visualizations/Family Status/bar_revenue_famstatus_region.png)
+
+This bar chart shows that the customer profile bringing in the most revenue are people married with kids, that live in the South region of the US. This chart helps identify customer profiles and regions that the marketing team should be targetting for their advertisement campaigns.
+
+
 ## Recommendations & Findings:
 + The marketing team should target ads to increase weekday shopping and shopping during the early hours of the day, especially between midnight and 6 AM.
 + Instacart should taget the early morning hours for its ads as most orders usually happen later in the morning and early afternoon.
