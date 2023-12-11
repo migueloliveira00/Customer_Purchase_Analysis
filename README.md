@@ -25,15 +25,20 @@ The final report outlines a detailed procedural sequence of all the cleaning and
 ## Visualizations:
 All visualizations are shown and explained in detail on the final report. Some key visualizations are:
 
+
 ![Distribution of customers by age, showing that most Instacart users are 60 years or older](Visualizations/Age/bar_customers_by_age.png)
 
 Distribution of customers by age, showing that most Instacart users are 60 years or older
+
 
 ![Level of income by age](Visualizations/Age/scatterplot_age_income.png)
 
 This scatterplot shows the level of income by age, which shows that older people are more likely to have higher levels of income. Subsequently, most Instacart users are older and have a higher level of income ($100,000 or more per year).
 
 
+![Number of orders by department](Visualizations/Department/bar_department_orders.png)
+
+This bar chart shows that produce and eggs and dairy are the most popular types of items users order at Instacart. These are considered essential foods, so Instacart should focus on promoting non-essential items to maximize revenue.
 
 ## Recommendations & Findings:
 + The marketing team should target ads to increase weekday shopping and shopping during the early hours of the day, especially between midnight and 6 AM.
