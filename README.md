@@ -23,7 +23,8 @@ The final report outlines a detailed procedural sequence of all the cleaning and
 + Developed 'family_status' variable from 'marital_status' and 'number_of_dependants' columns to cors reference groups and to find Instacart's biggest and smallest user demographics.
 
 ## Visualizations:
-All visualizations are shown and explained in detail in the final report.
+All visualizations are shown and explained in detail on the final report. Some key visualizations are:
+![/Users/miguel/Desktop/CareerFoundry Bootcamp/Data Immersion/Achievement 4/Instacart Basket Analysis/Visualizations/Age/bar_customers_by_age.png]
 
 ## Recommendations & Findings:
 + The marketing team should target ads to increase weekday shopping and shopping during the early hours of the day, especially between midnight and 6 AM.
