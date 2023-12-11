@@ -24,7 +24,10 @@ The final report outlines a detailed procedural sequence of all the cleaning and
 
 ## Visualizations:
 All visualizations are shown and explained in detail on the final report. Some key visualizations are:
+
 ![Distribution of customers by age, showing that most Instacart users are 60 years or older](Visualizations/Age/bar_customers_by_age.png)
+
+Distribution of customers by age, showing that most Instacart users are 60 years or older
 
 
 
