@@ -20,7 +20,7 @@ The final report outlines a detailed procedural sequence of all the cleaning and
 + Created 'age_group' variable to determine if age affects spending habits.
 + Developed 'income_group' variable to determine if income level affects spending habits.
 + Created 'dependants_group' variable to determine if number of dependants was a factor in spending habits.
-+ Developed 'family_status' variable from 'marital_status' and 'number_of_dependants' columns to cors reference groups and to find Instacart's biggest and smallest user demographics.
++ Developed 'family_status' variable from 'marital_status' and 'number_of_dependants' columns to cross reference groups and to find Instacart's biggest and smallest user demographics.
 
 ## Visualizations:
 All visualizations are shown and explained in detail on the final report. Some key visualizations are:
