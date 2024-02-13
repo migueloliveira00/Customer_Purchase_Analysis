@@ -48,7 +48,7 @@ This bar chart shows that the customer profile bringing in the most revenue are 
 
 ## Recommendations & Findings:
 + The marketing team should target ads to increase weekday shopping and shopping during the early hours of the day, especially between midnight and 6 AM.
-+ Instacart should taget the early morning hours for its ads as most orders usually happen later in the morning and early afternoon.
++ Instacart should target the early morning hours for its ads as most orders usually happen later in the morning and early afternoon.
 + The marketing and sales teams should create 2 categories for prices, one being "$15 or less" and another being "Over $15"
 + The most frequently purchased items are essential foods (produce/dairy and eggs) and that trend does not seem to be affected by any demographic information. 
 + Instacart should promote non-essentail products because the data shows that users will always buy essential items regardless of any demographic or geographic factors.
